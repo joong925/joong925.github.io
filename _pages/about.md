@@ -9,7 +9,8 @@ profile:
   image: joong.jpg
   image_circular: false
   more_info: >
-
+  
+news: true 
 selected_papers: true
 social: false 
 
