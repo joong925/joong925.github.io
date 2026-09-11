@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joong925.github.io/sitemap.xml
+Sitemap: https://joongon.github.io/sitemap.xml
