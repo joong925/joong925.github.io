@@ -25,7 +25,7 @@ latest_posts:
 ---
 <style>
   .profile img {
-    max-width: 200px !important; /* 200px를 150px, 100px 등으로 조절해 보세요 */
+    max-width: 200px !important;
     width: 100% !important;
     height: auto !important;
   }
