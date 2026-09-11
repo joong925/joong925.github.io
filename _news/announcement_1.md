@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to my website! 🎉
+Opened my new personal website! 🎉
