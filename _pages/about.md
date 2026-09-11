@@ -31,7 +31,7 @@ latest_posts:
   }
 </style>
 
-Hi, I am Joong-on Choi, an AI/robotics researcher with a unique interdisciplinary background in Robotics and Medicine. I am currently working as a Principal Researcher at the Tesollo R&D Center, leading research on learning-based optimization for multi-joint robot hand control and dexterous manipulation. 
+Hi, I am Joong-on Choi, an AI/robotics researcher with a unique interdisciplinary background in Robotics and Medicine. I am currently working as a Principal Researcher at the [Tesollo](https://www.tesollo.com/) R&D Center, leading research on learning-based optimization for multi-joint robot hand control and dexterous manipulation. 
 
 I hold a B.S. in Robotics from Kwangwoon University and an M.S. in Medicine from Yonsei University. Previously, I worked at ETH Zürich and Severance Hospital, where I focused on deep learning-based human movement analysis and IMU-based wearable feedback. 
 
